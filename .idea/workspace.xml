@@ -5,13 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42470e87-3a71-4973-aca4-355390233dc0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/assignment/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../apache-tomcat-10.1.18/BUILDING.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../apache-tomcat-10.1.18/CONTRIBUTING.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../apache-tomcat-10.1.18/LICENSE" afterDir="false" />
@@ -868,6 +861,7 @@
       <change afterPath="$PROJECT_DIR$/../../apache-tomcat-10.1.18/work/Catalina/localhost/host-manager/org/apache/jsp/WEB_002dINF/jsp/_401_jsp.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../apache-tomcat-10.1.18/work/Catalina/localhost/manager/org/apache/jsp/WEB_002dINF/jsp/_401_jsp.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../apache-tomcat-10.1.18/work/Catalina/localhost/manager/org/apache/jsp/WEB_002dINF/jsp/_401_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1014,7 +1008,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723212691342</updated>
-      <workItem from="1723212692671" duration="1416000" />
+      <workItem from="1723212692671" duration="2532000" />
     </task>
     <servers />
   </component>
